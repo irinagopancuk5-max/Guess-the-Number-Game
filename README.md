@@ -1,4 +1,4 @@
-#  Guess the Number Game
+
 ## 📌 About
 A simple game where the computer randomly selects a number and the player tries to guess it.
 
