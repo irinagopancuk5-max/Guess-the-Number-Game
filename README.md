@@ -1,18 +1,24 @@
 # Guess the Number Game
-## 📌 About
-A simple game where the computer randomly selects a number and the player tries to guess it.
+
+A simple C++ game where the computer generates a random number and the player tries to guess it.
+
+---
 
 ## ⚙ Features
 - Random number generation
 - User input
-- Hints (too big / too small)
+- Hints (too high / too low)
 - Loop until correct answer
+
+---
 
 ## 🎯 What I learned
 - Loops (while)
 - Random numbers
-- Conditions
 - Game logic
+- Conditions
+
+---
 
 ## 🚀 Status
 Beginner project
